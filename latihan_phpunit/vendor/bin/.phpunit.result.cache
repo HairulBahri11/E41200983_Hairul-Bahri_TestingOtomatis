@@ -1,0 +1,1 @@
+{"version":1,"defects":{"testLatihan::testCountWords":3,"testLogin::testLoginUsersBerhasil":3,"testLogin::testLoginUsersGagal":3,"testLogin::testLoginData":4},"times":{"testLatihan::testCountWords":0.007,"testLogin::testLoginUsersBerhasil":0.022,"testLogin::testLoginUsersGagal":0.003,"testLogin::testLoginData":0.014}}
